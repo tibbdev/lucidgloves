@@ -54,8 +54,8 @@
 
 #if defined(ESP32)
   //(This configuration is for ESP32 DOIT V1 so make sure to change if you're on another board)
-  #define PIN_PINKY     36
-  #define PIN_RING      39
+  #define PIN_PINKY     25
+  #define PIN_RING      33
   #define PIN_MIDDLE    34
   #define PIN_INDEX     35
   #define PIN_THUMB     32
